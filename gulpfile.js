@@ -1,6 +1,7 @@
 require('./gulp/tasks/styles');
 require('./gulp/tasks/watch');
 require('./gulp/tasks/sprites');
+<<<<<<< HEAD
 
 
 
@@ -11,3 +12,5 @@ require('./gulp/tasks/sprites');
 
 
 
+=======
+>>>>>>> gulp-sprite
